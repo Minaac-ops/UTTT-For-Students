@@ -52,4 +52,5 @@ public class LocalPrioritisedListBot implements IBot {
     public String getBotName() {
         return BOTNAME;
     }
+
 }
